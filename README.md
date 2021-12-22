@@ -1,3 +1,3 @@
-# ±êÇãºê ¿¬½À
+# ê¹ƒí—ˆë¸Œ ì—°ìŠµ
 
 Practice git with vscode
